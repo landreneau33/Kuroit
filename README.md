@@ -3,7 +3,7 @@
 ## Kuroit Introduction
 Kuroit, a UK-based hosting provider, offers data centers in the UK, USA (Los Angeles), Singapore, and Japan. They support PayPal and credit card payments. Currently, they are running a flash sale with a 27% discount site-wide.
 
-![image](https://github.com/landreneau33/Kuroit/assets/169884332/e9ec8637-38f3-4f12-bdd8-24a75fdaab75)
+![image](https://github.com/landreneau33/Kuroit/assets/169884332/90685be6-8beb-4acb-a515-44103a683174)
 
 ## Kuroit Official Website Address
 [https://www.kuroit.com/](https://my.kuroit.com/aff.php?aff=263)
